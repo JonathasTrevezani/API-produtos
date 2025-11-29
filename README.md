@@ -62,10 +62,17 @@ A API ficará disponível em:
 ![alt text](<foto Jonathas ícone.ico>) Autor
 
 Jonathas Trevezani
+
 Estudante de Técnico em Desenvolvimento de Sistemas – SENAI
+
 Aspirante a Desenvolvedor Back-end Python/Django
 
-📧 E-mail: joni,rj@hotmail.com
+
+
+📧 E-mail: joni.rj@hotmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/jonathas-trevezani-16959853/
+
 🐙 GitHub: https://github.com/JonathasTrevezani
-🎥 Pretendo publicar um vídeo no LinkedIn mostrando a API funcionando.
+
+🎥 Pretendo publicar um vídeo no LinkedIn mostrando a API funcionando. 
